@@ -50,3 +50,7 @@ mojombo/github-flavored-markdown#1
 
 @gforeroh
 
+:thumbsdown:
+:open_hands:
+:sweat_drops:
+:rage:
