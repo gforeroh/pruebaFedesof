@@ -19,3 +19,34 @@ Proyecto de prueba
 | ----- | ---- |
 
 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
+
+1. http://github.com - ¡link automático!
+
+2. [GitHub](http://github.com)
+
+3. [GitHub][id]
+
+4. [GitHub][]
+
+> Y aquí está la cita que puede
+> seguir en varios renglones, y tener anidado más
+> > citas así, con un doble signo mayor-que.
+
+Creo que debería utilizar una etiqueta `<addr>` aquí.
+
+- [x] Soporte de @menciones, #referencias, [links](), **formateo**, y de <del>etiquetas</del>
+- [x] lista de sintaxis requerida (cualquier lista des-ordenada y ordenada es soportada)
+- [x] esta es una tarea completa
+- [ ] esta es una tarea incompleta
+
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+
+@gforeroh
+
